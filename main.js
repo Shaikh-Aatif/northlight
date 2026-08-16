@@ -35,7 +35,7 @@
         + 'visitor in from open water, past the pool, through an arched doorway and '
         + 'into a suite — then a live panel prices the stay, season by season.',
       notes: ['180-frame cinematic sequence', 'Live booking arithmetic', 'Seasonal rates'],
-      url: 'https://azure-and-stone.aatifshaikh523.workers.dev/',
+      url: 'https://azure-and-stone.aatifs.workers.dev/',
     },
     {
       name: 'HALCYON',
