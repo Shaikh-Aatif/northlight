@@ -35,7 +35,7 @@
         + 'visitor in from open water, past the pool, through an arched doorway and '
         + 'into a suite — then a live panel prices the stay, season by season.',
       notes: ['180-frame cinematic sequence', 'Live booking arithmetic', 'Seasonal rates'],
-      url: 'https://aatif-thinkitive.github.io/azure-and-stone/',
+      url: 'https://shaikh-aatif.github.io/azure-and-stone/',
     },
     {
       name: 'HALCYON',
@@ -48,7 +48,7 @@
         + 'architectural reveal that holds the building in mid-air, a drag-to-turn '
         + 'exterior study and a finance calculator that does real work.',
       notes: ['Four scrubbed chapters', 'Drag-to-turn exterior', 'Floor-by-floor plans'],
-      url: 'https://aatif-thinkitive.github.io/halcyon/',
+      url: 'https://shaikh-aatif.github.io/halcyon/',
     },
   ];
 
