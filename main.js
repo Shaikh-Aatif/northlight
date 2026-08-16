@@ -35,7 +35,7 @@
         + 'visitor in from open water, past the pool, through an arched doorway and '
         + 'into a suite — then a live panel prices the stay, season by season.',
       notes: ['180-frame cinematic sequence', 'Live booking arithmetic', 'Seasonal rates'],
-      url: 'https://shaikh-aatif.github.io/azure-and-stone/',
+      url: 'https://azure-and-stone.aatifshaikh523.workers.dev/',
     },
     {
       name: 'HALCYON',
@@ -48,6 +48,9 @@
         + 'architectural reveal that holds the building in mid-air, a drag-to-turn '
         + 'exterior study and a finance calculator that does real work.',
       notes: ['Four scrubbed chapters', 'Drag-to-turn exterior', 'Floor-by-floor plans'],
+      // GitHub Pages, NOT Cloudflare: the Workers host does not answer HTTP Range
+      // requests, which makes the video unseekable and freezes every scrub chapter
+      // on frame zero. Verified 2026-08-16. Do not "fix" this to the workers.dev URL.
       url: 'https://shaikh-aatif.github.io/halcyon/',
     },
   ];
